@@ -1,6 +1,6 @@
 # Ringston Website
 
-Ringston Website Project
+Ringston Website 
 
 ## Usage
 
@@ -9,7 +9,9 @@ Install dependencies
 ```
 npm Install
 ```
+
+```
 npm run dev
 ```
 
-![alt text](ring.png)
+![Alt text](ring.png)
