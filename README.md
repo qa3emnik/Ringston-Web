@@ -12,4 +12,4 @@ npm Install
 npm run dev
 ```
 
-ring-shot.png
+![alt text](ring.png)
